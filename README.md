@@ -6,4 +6,4 @@ This desktop application allows the user to check off goals they made for the ne
 
 ## Known Issues
 
--In this current version of the application the goals are hardcoded but this may change in the future, allowing the user to list whatever goals they would like directly from the application and not the source code. 
+- In this current version of the application the goals are hardcoded but this may change in the future, allowing the user to list whatever goals they would like directly from the application and not the source code. 
